@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+sentence_transformers
+uuid
+openpyxl
+nltk
+numpy
+catboost
